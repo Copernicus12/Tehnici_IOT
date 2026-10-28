@@ -1,0 +1,1 @@
+Am rulat senzorul B și Gateway-ul pe același calculator, folosind adresa 127.0.0.1. Pentru primele 30 de măsurători valide, RTT-ul mediu a fost 0,736265 ms, minimul 0,234542 ms, maximul 2,953750 ms, iar jitter-ul RTT 0,444039 ms. Aceste rezultate reprezintă referința pentru comparația cu experimentul în LAN.
